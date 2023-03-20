@@ -1,0 +1,48 @@
+.blueviolet{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-size: 18px;
+    text-align: left;
+}
+.yellow{
+    font-family: 'Times New Roman', Times, serif;
+    color: yellow;
+    font-size: 18px;
+    text-align: right;
+}
+.blue{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 18px;
+    text-align: right;
+}
+#gold{
+    background-color: gold;
+    width: auto;
+    height: auto;
+    
+}
+#rig{
+    width: 350px;
+    height: 350px;
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: rgb(60, 203, 12) 2px;
+}
+.flexbox{
+    display: flex;
+    fle
+    flex-direction: column;
+
+}
+.backgrd{
+    background-image: url("https://media.istockphoto.com/id/160294499/photo/bazilian-flag.jpg?s=612x612&w=0&k=20&c=Wr3fC0TwWL1UYB-9HwyhBD86TmuZEW25zeF9ThtlxdI=");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+body{
+    background-image: url('njr.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
