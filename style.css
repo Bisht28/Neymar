@@ -1,4 +1,4 @@
-.blueviolet{
+afq.blueviolet{
     font-family: 'Times New Roman', Times, serif;
     color: blueviolet;
     font-size: 18px;
@@ -42,7 +42,7 @@
     background-size: 100%;
 }
 body{
-    background-image: url('./njr.jpg');
+    background-image: url('njr.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
